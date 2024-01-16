@@ -48,7 +48,7 @@ Modify existing voice commands effortlessly. Update commands based on evolving n
     - Extract the contents to a folder of your choice.
 
 2. **Open Terminal:**
-    - Navigate to the project folder using your terminal or command prompt.
+    - Navigate to the project folder and then open src folder  using your terminal or command prompt.
 
 3. **Install Dependencies:**
     ```bash
@@ -56,7 +56,7 @@ Modify existing voice commands effortlessly. Update commands based on evolving n
     ```
 
 4. **Open Visual Studio Code:**
-    - Open the project folder in Visual Studio Code.
+    - Open the project folder and then src folder in Visual Studio Code.
   
 5. **Run Main Application:**
     - Open the terminal in Visual Studio Code.
